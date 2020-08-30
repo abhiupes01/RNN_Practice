@@ -24,3 +24,7 @@
 ![Show](https://i.postimg.cc/k4R4vF5Q/Capture-1.jpg,rawimage=True)
 ### Result LSTM
 ![Show](https://i.postimg.cc/XqwYTjdX/Capture-2.jpg,rawimage=True)
+
+## Generate text in Shakespear Style using RNN
+### Loss function 
+![Show](https://i.postimg.cc/W1xxJMQL/Capture-1.jpg,rawimage=True)
