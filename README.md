@@ -3,3 +3,6 @@
 ### Binary addition of two numbers
 #### Loss function
 ![Show](https://i.postimg.cc/NfWG4rXY/Capture-1.jpg,rawimage=True)
+
+#### Result
+![Show](https://i.postimg.cc/nh3JWjjC/Capture-2.jpg,rawimage=True)
